@@ -1,2 +1,8 @@
 # EDA-Python
-This code explores the Sleep Health and Lifestyle dataset, performing data loading, preprocessing, and visualization tasks. It analyzes relationships between variables like sleep duration, physical activity, gender, occupation, and BMI using scatter plots, box plots, etc.
+This code performs data loading, preprocessing, and visualization tasks to explore and analyze the Sleep Health and Lifestyle dataset. It provides insights into the relationships between variables such as sleep duration, physical activity level, gender, occupation, and BMI category through various visualizations like scatter plots, box plots, violin plots, contingency tables, and heatmaps.
+
+
+
+
+
+
